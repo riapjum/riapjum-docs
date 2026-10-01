@@ -17,10 +17,10 @@ vehicle and other document forms.
 
 ## Documentation
 
-- [Texas Form 130-U](docs/texas/130-u.md)
-- [Texas VTR-271](docs/texas/vtr-271.md)
-- [Texas VTR-346](docs/texas/vtr-346.md)
-- [California REG 343](docs/california/reg-343.md)
+- [Texas Form 130-U](docs/texas-dmv/130-u.md)
+- [Texas VTR-271](docs/texas-dmv/vtr-271.md)
+- [Texas VTR-346](docs/texas-dmv/vtr-346.md)
+- [California REG 343](docs/california-dmv/reg-343.md)
 
 ## API
 
